@@ -1,0 +1,36 @@
+{
+  "id": "9d85d070-a627-4e95-8d3d-98e37cb3e5ef",
+  "name": "Marshmallow Patch",
+  "commonName": "Marshmallow",
+  "scientificName": "Althaea officinalis",
+  "zoneId": "3f7bb3a1-7d6d-4a7d-9a54-0f2ca0ed130f",
+  "description": "Medicinal marshmallow cluster near the fence line.",
+  "notes": "Likes moisture and afternoon protection from harsh sun.",
+  "plantedDate": "2026-02-20T00:00:00Z",
+  "status": "active",
+  "lifeCycle": "perennial",
+  "environment": "outdoor",
+  "latitude": 30.123401,
+  "longitude": -97.123510,
+  "gpsAccuracyMeters": 2.4,
+  "primaryPictureId": null,
+  "tags": [
+    "medicinal",
+    "fence-line"
+  ],
+  "careEvents": [
+    {
+      "id": "bfffb32b-b28c-4bb9-8f6d-f73f0aa9eb12",
+      "type": "water",
+      "intervalDays": 3,
+      "notes": "Skip if soil is still wet after rain.",
+      "startDateUtc": "2026-02-20T00:00:00Z",
+      "isActive": true
+    }
+  ],
+  "createdAtUtc": "2026-03-14T12:10:00Z",
+  "updatedAtUtc": "2026-03-14T12:10:00Z",
+  "deletedAtUtc": null,
+  "version": 1,
+  "sourceDeviceId": "schema-bootstrap"
+}

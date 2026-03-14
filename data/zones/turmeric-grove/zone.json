@@ -1,0 +1,20 @@
+{
+  "id": "3f7bb3a1-7d6d-4a7d-9a54-0f2ca0ed130f",
+  "name": "Turmeric Grove",
+  "description": "Moist, partially shaded bed near the east fence.",
+  "parentZoneId": null,
+  "latitude": 30.123456,
+  "longitude": -97.123456,
+  "geoRadiusMeters": 9.5,
+  "sunExposure": "partial_shade",
+  "soilNotes": "Dark soil with high organic matter.",
+  "tags": [
+    "east-yard",
+    "shade-tolerant"
+  ],
+  "createdAtUtc": "2026-03-14T12:00:00Z",
+  "updatedAtUtc": "2026-03-14T12:00:00Z",
+  "deletedAtUtc": null,
+  "version": 1,
+  "sourceDeviceId": "schema-bootstrap"
+}
